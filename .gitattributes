@@ -1,0 +1,3 @@
+# Keep the sources byte-identical to the published certificates.
+* text=auto eol=lf
+*.gz binary

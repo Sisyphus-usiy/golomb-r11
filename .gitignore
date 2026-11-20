@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated proofs and build artifacts
+regenerated/
+*.rgc
+build/
+*.exe
+*.o
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch
+tmp/
+*.log
